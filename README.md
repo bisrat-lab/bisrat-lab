@@ -15,3 +15,26 @@ with Jave, JavaScript, Angular, ReactJS, React-Native, Node.js, and MongoDB/Mong
 - 👨‍💻 Some of my projects are available at **[portfolio](https://github.com/bisrat-lab)** (on progress)
 
 - 📫 How to reach me **bisratktegegne@gmail.com**
+
+## 🚀 Languages and Tools: 
+
+<img align="left" alt="html" width="32px" src="https://github.com/Asgedom-dev/Asgedom-dev/blob/main/assets/html.png"/>
+<img align="left" alt="css" width="32px" src="https://github.com/Asgedom-dev/Asgedom-dev/blob/main/assets/css.png" />
+<img align="left" alt="javascript" width="32px" src="https://github.com/Asgedom-dev/Asgedom-dev/blob/main/assets/javascript.png" />
+<img align="left" alt="express" width="32px" src="https://github.com/Asgedom-dev/Asgedom-dev/blob/main/assets/express.png" />
+<img align="left" alt="mongodb" width="32px" src="https://github.com/Asgedom-dev/Asgedom-dev/blob/main/assets/mongodb.png" />
+<img align="left" alt="mysql" width="32px" src="https://github.com/Asgedom-dev/Asgedom-dev/blob/main/assets/mysql.png" />
+<img align="left" alt="nodejs" width="32px" src="https://github.com/Asgedom-dev/Asgedom-dev/blob/main/assets/nodejs.png" />
+<img align="left" alt="react" width="32px" src="https://github.com/Asgedom-dev/Asgedom-dev/blob/main/assets/react.png" />
+<img align="left" alt="angular" width="32px" src="https://github.com/Asgedom-dev/Asgedom-dev/blob/main/assets/angular.png" />
+<img align="left" alt="aws" width="32px" src="https://github.com/Asgedom-dev/Asgedom-dev/blob/main/assets/aws.png" />
+<img align="left" alt="git" width="32px" src="https://github.com/Asgedom-dev/Asgedom-dev/blob/main/assets/git.png" />
+<img align="left" alt="github" width="32px" src="https://github.com/Asgedom-dev/Asgedom-dev/blob/main/assets/github.png" />
+<img align="left" alt="java" width="32px" src="https://github.com/Asgedom-dev/Asgedom-dev/blob/main/assets/Java.png" /><br>
+  <br/>
+  <br/>
+<p align="center">
+    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Asgedoms's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Asgedom-dev&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
