@@ -40,6 +40,6 @@ with Jave, JavaScript, Angular, ReactJS, React-Native, Node.js, and MongoDB/Mong
 </p>
  <br/>
    <br/>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Asgedoms's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asgedom-dev&langs_count=8&count_private=true&layout=compact" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Bisrat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisrat-lab&langs_count=8&count_private=true&layout=compact" /></a>
   <br/>
   
