@@ -12,7 +12,7 @@ with Jave, JavaScript, Angular, ReactJS, React-Native, Node.js, and MongoDB/Mong
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 Some of my projects are available at **[portfolio](https://github.com/bisrat-lab)** (on progress)
+- 👨‍💻 Some of my projects are available at **[portfolio](https://github.com/bisrat-lab?tab=repositories)** (on progress)
 
 - 📫 How to reach me **bisratktegegne@gmail.com**
 
