@@ -45,4 +45,8 @@ with Jave, JavaScript, Angular, ReactJS, React-Native, Node.js, and MongoDB/Mong
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Bisrat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisrat-lab&langs_count=8&count_private=true&layout=compact" /></a>
   <br/>
   </p>
-  
+
+## Connect with me:
+<p align="left">
+    <a href = "https://www.linkedin.com/in/bisrat-tegegne/"><img align="left" alt="Linkedin" width="32px" src="https://github.com/Asgedom-dev/Asgedom-dev/blob/main/assets/linkedin.png" ></a>
+</p>
