@@ -37,7 +37,7 @@ with Jave, JavaScript, Angular, ReactJS, React-Native, Node.js, and MongoDB/Mong
   ## 📊 My Github Stats
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bisrat's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bisrat-lab&theme=black-ice&hide_border=true&stroke=ffffff&background=#fffff"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bisrat's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bisrat-lab"/>
     </a>
 </p>
  <br/>
