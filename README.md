@@ -38,4 +38,6 @@ with Jave, JavaScript, Angular, ReactJS, React-Native, Node.js, and MongoDB/Mong
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Asgedoms's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Asgedom-dev&theme=black-ice&hide_border=true&stroke=0000&background=#fffff"/>
     </a>
 </p>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+ <br/>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Asgedoms's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asgedom-dev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
