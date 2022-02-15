@@ -46,7 +46,7 @@ with Jave, JavaScript, Angular, ReactJS, React-Native, Node.js, and MongoDB/Mong
   <br/>
   </p>
 
-## Connect with me:
+## 🔎 Connect with me:
 <p align="left">
     <a href = "https://www.linkedin.com/in/bisrat-tegegne/"><img align="left" alt="Linkedin" width="32px" src="https://github.com/Asgedom-dev/Asgedom-dev/blob/main/assets/linkedin.png" ></a>
 </p>
