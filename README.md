@@ -3,7 +3,7 @@
 <h3 align="center">I'm a passionate Full Stack Developer.</h3>
 <p>I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community.Effective team member who communicates closely with the team while developing a project.
 Largest project resulted in a full stack web application and mobile application. Experienced in working
-with Jave, JavaScript, Angular, ReactJS, React-Native, Node.js, and MongoDB/Mongoose. </p>
+with JavaScript, Angular, ReactJS, React-Native, Node.js, and MongoDB/Mongoose. </p>
   <br/>
 
 ## 🙋‍♂️ About Me
