@@ -14,7 +14,7 @@ with JavaScript, Angular, ReactJS, React-Native, Node.js, and MongoDB/Mongoose. 
 
 - 👨‍💻 Some of my projects are available at **[portfolio](https://github.com/bisrat-lab?tab=repositories)** (on progress)
 
-- 📫 How to reach me **bisratktegegne@gmail.com**
+- 📫 How to reach me **bisratkt@gmail.com**
 
 ## 🚀 Languages and Tools: 
 
