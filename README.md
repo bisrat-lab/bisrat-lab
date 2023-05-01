@@ -8,8 +8,6 @@ with JavaScript, Angular, ReactJS, React-Native, Node.js, and MongoDB/Mongoose. 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **MyBlog Website**
-
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 Some of my projects are available at **[portfolio](https://github.com/bisrat-lab?tab=repositories)** (on progress)
@@ -48,5 +46,5 @@ with JavaScript, Angular, ReactJS, React-Native, Node.js, and MongoDB/Mongoose. 
 
 ## 🔎 Connect with me:
 <p align="left">
-    <a href = "https://www.linkedin.com/in/bisrat-tegegne/"><img align="left" alt="Linkedin" width="32px" src="https://github.com/Asgedom-dev/Asgedom-dev/blob/main/assets/linkedin.png" ></a>
+    <a href = "https://www.linkedin.com/in/bisrat-tegegne/"><img align="left" alt="Linkedin" width="32px" src="https://github.com/Asgedom-dev/Asgedom-dev/blob/main/assets/linkedin.png" ></a> My Linkedin 
 </p>
