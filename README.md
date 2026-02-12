@@ -2,8 +2,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bisrat</h1>
 <h3 align="center">I'm a passionate Full Stack Developer.</h3>
 <p>I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community.Effective team member who communicates closely with the team while developing a project.
-Largest project resulted in a full stack web application and mobile application. Experienced in working
-with JavaScript, Angular, ReactJS, React-Native, Node.js, and MongoDB/Mongoose. </p>
+The largest project resulted in a full-stack web application and mobile application. Experienced in working
+with JavaScript, Next.js, Angular, ReactJS, React-Native, Node.js, AI, and MongoDB/Mongoose. </p>
   <br/>
 
 ## 🙋‍♂️ About Me
