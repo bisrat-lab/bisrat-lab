@@ -5,26 +5,62 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 </h1>
 
 <h3 align="center">
-Full Stack Developer | React • Next.js • Node.js • AI Enthusiast
+Full Stack Developer • AI Automation Engineer • Prompt Engineer
 </h3>
 
 <p align="center">
-Passionate software engineer focused on building scalable web applications, AI-powered tools, and modern user experiences.
+I build modern web applications, AI-powered tools, and automation systems that improve developer productivity and business workflows.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🚀 Full Stack Developer with strong focus on **Front-End Development**
-- ⚡ Specialized in **React, Next.js, Tailwind, Node.js**
-- 🤖 Interested in **AI tools, automation, and developer productivity**
-- 🌍 Open to **remote opportunities worldwide**
-- 🤝 Looking to collaborate on **Open Source Projects**
+- 🚀 Full Stack Developer (React / Next.js / Node.js)
+- 🤖 Building **AI-powered applications and developer tools**
+- ⚡ Specialized in **AI automation workflows**
+- 🧠 Experienced with **Prompt Engineering & LLM tools**
+- 🌍 Open to **Remote Opportunities**
+- 🤝 Looking to collaborate on **Open Source + AI Projects**
 
 ---
 
-## 🧠 Tech Stack
+# 🧠 AI & Automation Stack
+
+### AI Development
+- OpenAI API
+- Claude API
+- LangChain
+- LlamaIndex
+- Vercel AI SDK
+- AI Agents
+- RAG Applications
+- Vector Databases
+
+### AI Tools
+- Claude Code
+- GitHub Copilot
+- Cursor AI
+- ChatGPT
+- Perplexity AI
+- Continue.dev
+
+### Automation Platforms
+- Make.com
+- n8n
+- Zapier
+- API Integrations
+- Workflow Automation
+
+### Prompt Engineering
+- Prompt optimization
+- LLM response structuring
+- AI workflow design
+- AI agent orchestration
+
+---
+
+# 🧠 Tech Stack
 
 ### Frontend
 <p>
@@ -36,27 +72,32 @@ Passionate software engineer focused on building scalable web applications, AI-p
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
-### Tools & Cloud
+### Cloud & DevOps
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,aws,docker,vscode" />
+<img src="https://skillicons.dev/icons?i=aws,docker,vercel,firebase" />
+</p>
+
+### Developer Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-🔹 **AI Interview Preparation Platform**  
-AI-powered interview simulator with resume analysis, feedback, and job-targeted preparation.
+### 🤖 AI Interview Preparation Platform
+AI-powered interview simulator that generates interview questions, analyzes resumes, and provides feedback.
 
-🔹 **Full Stack CRM System**  
-React + Node.js + MongoDB CRM with vendor, inventory, and analytics dashboard.
+### ⚙️ AI Workflow Automation
+Automated workflows connecting APIs, AI models, and business tools to reduce manual work.
 
-🔹 **Automation Workflows**  
-Business automation using APIs, integrations, and workflow tools.
+### 📊 Full Stack CRM System
+React + Node.js CRM with vendor management, inventory tracking, and analytics dashboard.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -70,7 +111,7 @@ Business automation using APIs, integrations, and workflow tools.
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
 
@@ -86,4 +127,4 @@ Business automation using APIs, integrations, and workflow tools.
 
 ---
 
-⭐ **Check out my repositories and feel free to collaborate!**
+⭐ Always open to collaborating on **AI tools, automation systems, and full stack applications.**
